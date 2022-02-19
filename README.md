@@ -3,7 +3,7 @@
 ## My name is Hossein Taghipour
 
 - 🔭 I’m Front end developer
-- ⚡ I’m work professionally with Ract
+- ⚡ I’m work professionally with React
 - 🌱 I’m currently learning react native!
 - ⚡ Here are some of my skills: css,html,javascript,react,next js,mui,...
 - 📫 How to reach me: hosseintaghipour097@gmail.com
