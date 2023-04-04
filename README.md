@@ -13,9 +13,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-
 
 ### 🛠 &nbsp;Tech Stack
 
