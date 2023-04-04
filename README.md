@@ -11,7 +11,7 @@
 😄 &nbsp;Pronouns: Constant effort, cooperation, love of coding, striving to learn more.\
 📫 &nbsp;How to reach me: hossein1233897@gmail.com
 
-<br/>
+
 ### 🛠 &nbsp;Tech Stack
 
 
