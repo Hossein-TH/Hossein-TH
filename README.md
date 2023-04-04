@@ -12,8 +12,6 @@
 📫 &nbsp;How to reach me: hossein1233897@gmail.com
 
 <br/>
-<br/>
-
 ### 🛠 &nbsp;Tech Stack
 
 
